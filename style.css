@@ -5,3 +5,7 @@
 .outset {
     border-style: outset;
 }
+
+.center {
+    text-align: center;
+}
