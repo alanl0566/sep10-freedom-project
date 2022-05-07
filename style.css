@@ -1,6 +1,6 @@
 
 body {
-    background-color: #D5D6AA;
+    background-color: #E0AFA0;
 }
 .inset {
     border-style: inset;
@@ -19,6 +19,11 @@ body {
     animation-duration: 3s;
 }
 
+.infinite {
+    animation-iteration-count:infinite;
+    animation-duration: 3s;
+}
+
 .four {
     animation-delay: 4s;
     animation-duration: 2s;
@@ -30,3 +35,7 @@ body {
  .margin2 {
     margin-bottom: 50px;
  }
+ 
+ .insidebordercolor{
+    background-color: #ECEBE7;
+}
