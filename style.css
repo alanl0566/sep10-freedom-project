@@ -39,3 +39,7 @@ body {
  .insidebordercolor{
     background-color: #52796f;
 }
+
+* {
+    color: white;
+}
